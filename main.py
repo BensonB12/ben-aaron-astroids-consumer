@@ -9,7 +9,7 @@ from rstream import (
     OffsetType,
 )
 
-STREAM_NAME = "hello-python-stream"
+STREAM_NAME = "hello"
 # 5GB
 STREAM_RETENTION = 5000000000
 
